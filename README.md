@@ -12,3 +12,5 @@ An Android application built using kotlin that generates random memes by using [
 
 ## Screenshots
 
+<img src="https://user-images.githubusercontent.com/96243024/146397936-b788c5bb-b127-4ea3-80c1-e103264a1e24.png" width="160" height="320" /> <img src="https://user-images.githubusercontent.com/96243024/146397971-289d693d-e342-4d2c-b795-18fc618911b1.png" width="160" height="320" />
+<img src="https://user-images.githubusercontent.com/96243024/146397988-819a4af7-72a5-4053-99fd-0f542947cdbf.png" width="160" height="320" />
